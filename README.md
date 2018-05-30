@@ -83,7 +83,7 @@ This allows definitions to be a lot cleaner and shorter. New meta tags can be de
 
 While some of these are not items, they're treated as such internally.
 
-###SM+ALLTP Integration 
+### SM+ALLTP Integration 
 
 * ALTTPCrateria
 * ALTTPNorfair

@@ -54,13 +54,6 @@ data=CanAccessInnerMaridia,IceBeam|CanAccessInnerMaridia,SpeedBooster
 
 This allows definitions to be a lot cleaner and shorter. New meta tags can be defined arbitrarily. I based mine off the SM Randomizer's code but added more of my own.
 
-There are also ammo/energy calls...
-
-```
-data=m:50,s:15,p:10,e:1
-```
-
-**m:5** checks to make sure the player has at least 50 missiles. **s:15** does the same, but its 15 supermissiles and **p:10** is of course 10 powerbombs. **e:1** checks that you have an energy tank. This is checked against the combination of your etanks and reserve tanks, so either count for the total. Any arbitrary number can be used, but anything other than multiples of 5 is rather pointless for ammo.
 
 ## Item List
 

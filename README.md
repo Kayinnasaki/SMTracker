@@ -1,6 +1,6 @@
 # SMTracker
 
-![smtracker](https://user-images.githubusercontent.com/7599538/40287366-e061480a-5c7a-11e8-87af-d3e78f321de6.png)
+![smtracker](https://user-images.githubusercontent.com/7599538/40709532-4adf9628-63c4-11e8-93f2-68eb60d8d589.png)
 
 SMtracker is a simple tracker for Super Metroid, suitable for Metroid Randomizer or 100% playthroughs. It was created with the intent of being used with an ALttP tracker for playing ALttP + SM Randomizer.
 
@@ -82,3 +82,12 @@ This allows definitions to be a lot cleaner and shorter. New meta tags can be de
 * BeatRidley
 
 While some of these are not items, they're treated as such internally.
+
+### SM+ALLTP Integration 
+
+* ALTTPCrateria
+* ALTTPNorfair
+* ALTTPMaridia
+* ALTTPLowerNorfair
+
+This represent access to portals on the ALTTP side of the randomizer. No logic is currently written to use these, but they will be used in the future.
